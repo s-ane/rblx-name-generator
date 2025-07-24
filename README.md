@@ -10,3 +10,7 @@ Either way use an alt account.
 
 this is discontinued because ill probs rewrite it, but ill leave the old version here on this repo
 the new version is gonna include much more stuff, and its gonna look cleaner, no spoils
+
+
+paste this on your executor:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s-ane/rblx-name-generator/refs/heads/main/script.lua"))();
