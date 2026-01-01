@@ -16,7 +16,7 @@ If you plan on using your main account to execute it, join 1 of your roblox game
 Either way use an alt account.
 ----
 
-this is discontinued because ill probs rewrite it, but ill leave the old version here on this repo
+this script is discontinued and i do not maintain it anymore.
 ----
 the new version is gonna include much more stuff, and its gonna look cleaner, no spoils
 ----
