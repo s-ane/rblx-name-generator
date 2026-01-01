@@ -18,8 +18,6 @@ Either way use an alt account.
 
 this script is discontinued and i do not maintain it anymore.
 ----
-the new version is gonna include much more stuff, and its gonna look cleaner, no spoils
-----
 
 
 paste this on your executor:
